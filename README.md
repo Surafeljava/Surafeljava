@@ -19,6 +19,9 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/surafel-kindu-11889415b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.instagram.com/surafel_kindu/">
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Surafeljava&style=flat-square&color=blue" alt=""/>
 </div>
@@ -26,8 +29,12 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 &nbsp; About Me :
-I am a Full Stack Web and Mobile application developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 
+* Front-end web and mobile application developer
+* Back-end Node developer
+* AI and ML entusiast & Tensorflow Developer
+* UI/UX Designer ([Design Portfolio](https://www.behance.net/surafelkindu))
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -53,4 +60,4 @@ I am a Full Stack Web and Mobile application developer <img src="https://media.g
 ---
 
 ### My Portfolio Website :
-**WebSite:**[surafel.netlify.app](https://surafel.netlify.app)
+**WebSite:** &nbsp; [surafel.netlify.app](https://surafel.netlify.app)
