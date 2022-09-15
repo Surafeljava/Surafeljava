@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 &nbsp; About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+😄 I am a Software Engineer from Ethiopia. <br>
 
 * Front-end web and mobile application developer
 * Back-end Node developer
