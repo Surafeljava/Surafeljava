@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 💻 &nbsp; About Me :
 😄 I am a Software Engineer from Ethiopia. <br>
 
-* Front-end web and mobile application developer
+* Front-end web and mobile application developer (React, React Native, Flutter)
 * Back-end Node developer
 * AI and ML entusiast & Tensorflow Developer
 * UI/UX Designer ([Design Portfolio](https://www.behance.net/surafelkindu))
