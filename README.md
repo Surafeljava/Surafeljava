@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 Github Status
+### 📊 Github Status
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=surafeljava"><p>
 
