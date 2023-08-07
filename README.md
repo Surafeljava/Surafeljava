@@ -29,13 +29,11 @@ Here are some ideas to get you started:
 ---
 
 ### 💫 &nbsp; About Me :
-😄 I am a Software Engineer from Ethiopia. <br>
 
-* Front-end web and mobile application developer (React, React Native, Flutter)
-* Back-end Node developer
-* AI and ML entusiast & Tensorflow Developer
-* UI/UX Designer ([Design Portfolio](https://www.behance.net/surafelkindu))
----
+<p>🔭 I'm currently working on Front-end web and mobile applications (React, React Native, Flutter)</p>
+<p>🌱 I'm also good at Back-end (Node.js and Django)</p>
+<p>🤔 AI and ML entusiast & Tensorflow Developer</p>
+<p>⚡ UI/UX Designer ([Design Portfolio](https://www.behance.net/surafelkindu))</p>
 
 ### 💻 Skills
 <div>
@@ -59,12 +57,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
 </div>
-
----
-
-### 📊 Github Status
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=surafeljava"><p>
 
 ---
 
